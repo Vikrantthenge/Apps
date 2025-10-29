@@ -44,13 +44,4 @@
 ### 🔹 Revenue Forecasting System  
 📌 *Forecasts airline revenue using historical trends and Power BI integration*  
 [![Launch App](https://img.shields.io/badge/Launch-Revenue_Forecast-green?logo=powerbi)](https://airline-revenue-forecast.streamlit.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Revenue_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
-
----
-
-### 🔹 Operational Safety & Risk Analytics  
-📌 *Scores operational risk in real time using PySpark + Databricks pipelines*  
-[![Hugging Face Space](https://img.shields.io/badge/Launch-Risk_Analytics_(HF_Space)-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
-
-</details>
+[![GitHub Repo](https://img.shields.io/)]()
