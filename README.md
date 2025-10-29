@@ -5,10 +5,10 @@
 
 ---
 
-### 🔹 CrewOps Optimization  
-📌 *Automates crew scheduling with 80% manual reduction across airline operations*  
-[![Launch App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
+### 🔹 Financial KPI Forecast & Risk Tracker  
+📌 *Forecasts revenue, expenses, and cash flow using Prophet models and Power BI integration*  
+[![Launch App](https://img.shields.io/badge/Launch-Financial_KPI_Tracker-0A66C2?logo=streamlit)](https://kpi-risk-tracker-finance.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Financial_KPI_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
 ---
 
@@ -27,17 +27,17 @@
 
 ---
 
-### 🔹 JobSearchMatch Automation  
-📌 *Matches resumes to job descriptions using NLP-based ranking and scoring*  
-[![Launch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
-
----
-
-### 🔹 Predictive Maintenance Dashboard  
+### 🔹 Predictive Maintenance Optimization  
 📌 *Detects equipment anomalies using time-series forecasting and alerting*  
 [![Launch App](https://img.shields.io/badge/Launch-Predictive_Maintenance-orange?logo=streamlit)](https://predictivedashboard-vikrantthenge.streamlit.app/)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Maintenance_Repo-gray?logo=github)](https://github.com/Vikrantthenge/predictive_dashboard)
+
+---
+
+### 🔹 CrewOps Optimization  
+📌 *Automates crew scheduling with 80% manual reduction across airline operations*  
+[![Launch App](https://img.shields.io/badge/Launch-CrewOps-darkblue?logo=streamlit)](https://crew-optimizer.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CrewOps_Repo-gray?logo=github)](https://github.com/Vikrantthenge/crew-optimizer)
 
 ---
 
@@ -55,9 +55,9 @@
 
 ---
 
-### 🔹 Financial KPI Forecast & Risk Tracker  
-📌 *Forecasts revenue, expenses, and cash flow using Prophet models and Power BI integration*  
-[![Launch App](https://img.shields.io/badge/Launch-Financial_KPI_Tracker-0A66C2?logo=streamlit)](https://kpi-risk-tracker-finance.streamlit.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Financial_KPI_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+### 🔹 JobSearchMatch Automation  
+📌 *Matches resumes to job descriptions using NLP-based ranking and scoring*  
+[![Launch App](https://img.shields.io/badge/Launch-JobSearchMatch-blue?logo=streamlit)](https://jobsearchmatch.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-JobBot_Repo-gray?logo=github)](https://github.com/Vikrantthenge/job_search)
 
 </details>
