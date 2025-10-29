@@ -58,6 +58,6 @@
 ### 🔹 Financial KPI Forecast & Risk Tracker  
 📌 *Forecasts revenue, expenses, and cash flow using Prophet models and Power BI integration*  
 [![Launch App](https://img.shields.io/badge/Launch-Financial_KPI_Tracker-0A66C2?logo=streamlit)](https://kpi-risk-tracker-finance.streamlit.app/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Financial_KPI_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Financial-KPI-Forecast-Tracker)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Financial_KPI_Repo-gray?logo=github)](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
 
 </details>
