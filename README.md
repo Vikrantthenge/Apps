@@ -49,7 +49,7 @@
 ---
 
 ### 🔹 Operational Safety & Risk Analytics  
-📌 *Scores operational risk in real-time using PySpark and Databricks pipelines*  
+📌 *Scores operational risk in real time using PySpark + Databricks pipelines*  
 [![Hugging Face Space](https://img.shields.io/badge/Launch-Risk_Analytics_(HF_Space)-DC143C?logo=huggingface)](https://huggingface.co/spaces/vthenge/risk-analytics)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Risk_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
 
