@@ -1,7 +1,16 @@
 <details>
   <summary>📱 <strong>Live Projects – Central Access</strong></summary>
 
-> ⚠️ *If any app shows a “Zzzz” screen, it’s just waking up — click “Yes” to load (a few seconds only!)*
+> ⚠️ *If any app shows a “Zzzz” screen, click “Yes” to wake it up — loads in a few seconds.*
+
+---
+
+### 🔹 Customer Analytics & Segmentation Platform  
+📌 *Processes 430K+ transactions to generate 4,300+ customer profiles, RFM segmentation, K-Means clusters & cohort retention.*  
+📌 *End-to-end SQL → ML → Streamlit dashboard with live filters, export, & customer lookup.*
+
+[![Launch App](https://img.shields.io/badge/Launch-Customer_Analytics_Dashboard-darkgreen?logo=streamlit)](https://customer-analytic.streamlit.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Customer_Analytics_Repo-gray?logo=github)](https://github.com/Vikrantthenge/customer-analytics)
 
 ---
 
@@ -21,7 +30,7 @@
 
 ### 🔹 Airline Sentiment Analyzer  
 📌 *Analyzes passenger sentiment using hybrid NLP pipeline (VADER + Transformers)*  
-[![Streamlit App](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrant.streamlit.app/)  
+[![Streamlit App](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(Streamlit)-purple?logo=streamlit)](https://sentiment-analyzer-vikrantthenge.streamlit.app/)  
 [![Hugging Face Space](https://img.shields.io/badge/Launch-Sentiment_Analyzer_(HF_Space)-1E90FF?logo=huggingface)](https://huggingface.co/spaces/vthenge/sentiment-analyzer)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sentiment_Repo-gray?logo=github)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
