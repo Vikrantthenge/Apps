@@ -1,3 +1,7 @@
+# Vikrant Thenge  
+### Operations Performance & Applied Analytics Leader  
+Network Optimization | Forecasting | KPI Governance | Aviation & Logistics Systems
+
 # Applied Operational Intelligence Systems
 
 This repository showcases a portfolio of 9 end-to-end analytics applications designed to simulate enterprise-grade aviation and large-scale operational environments.
