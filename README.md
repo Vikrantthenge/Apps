@@ -2,7 +2,8 @@
 ### Operations Performance & Applied Analytics Leader  
 Network Optimization | Forecasting | KPI Governance | Aviation & Logistics Systems
 
-# Applied Operational Intelligence Systems
+## Applied Operational Intelligence Systems
+
 
 This repository showcases a portfolio of 9 end-to-end analytics applications designed to simulate enterprise-grade aviation and large-scale operational environments.
 
@@ -119,7 +120,7 @@ NLP-based resume-to-job description matching engine with scoring and ranking log
 
 ## 👤 About the Author
 
-Operations & Performance leader with 15+ years in airline operations, transitioning into Operational Intelligence & Analytics.
+Operations & Performance leader with 15+ years in airline operations, applying predictive systems and KPI governance frameworks to large-scale operational ecosystems.
 
-Focused on designing predictive systems, KPI governance frameworks, and scenario-based optimization models for complex operational ecosystems.
+Focused on designing decision-intelligence systems that improve cost efficiency, compliance visibility, and network performance.
 
