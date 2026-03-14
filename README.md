@@ -1,126 +1,127 @@
-# Vikrant Thenge  
-### Operations Performance & Applied Analytics Leader  
-Network Optimization | Forecasting | KPI Governance | Aviation & Logistics Systems
+# Vikrant Thenge
+### Aviation Operations Performance & Analytics
 
-## Applied Operational Intelligence Systems
-
-
-This repository showcases a portfolio of 9 end-to-end analytics applications designed to simulate enterprise-grade aviation and large-scale operational environments.
-
-The systems focus on:
-
-- Network & Delay Prediction  
-- Workforce Optimization & SLA Governance  
-- Revenue & Financial Forecasting  
-- Risk & Safety Analytics  
-- KPI Performance Monitoring  
-
-Each application demonstrates full lifecycle implementation including:
-
-- SQL data modelling & transformation  
-- Python-based forecasting & machine learning  
-- KPI dashboard design & performance tracking  
-- Scenario-based decision modelling  
-- Cloud deployment (Streamlit / HuggingFace)  
-
-**Primary Focus:** Operational Intelligence for high-variability, cost-sensitive, large-scale systems.
+Airline Operations | Operational Performance | KPI Governance | Applied Analytics
 
 ---
 
-## 🚀 Portfolio Overview
+## Operational Intelligence Portfolio
 
-<details>
-  <summary>📱 <strong>Live Projects – Central Access</strong></summary>
+This repository showcases a portfolio of analytics applications designed to simulate **airline and large-scale operational environments**.
 
-> ⚠️ If any app shows a “Zzzz” screen, click “Yes” to wake it up — loads in a few seconds.
+The projects focus on improving operational performance through:
 
----
+- Flight Delay & Network Analysis
+- Workforce & Capacity Optimization
+- Revenue & Financial Forecasting
+- Safety & Risk Monitoring
+- KPI Performance Governance
 
-### 🔹 Aviation & Network Intelligence Systems
-
-#### FlightPulse Delay Predictor  
-Predicts flight delay probability using supervised ML models with SHAP-based interpretability.  
-Focus: proactive OTP improvement & delay driver analysis.
-
-[Launch App](https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py)  
-[GitHub Repo](https://github.com/Vikrantthenge/flight-delay-predictor)
+These applications demonstrate how analytics can support **operational decision-making in aviation environments**.
 
 ---
 
-#### CrewOps Optimization  
-Workforce governance system automating crew scheduling audits, SLA validation, compliance checks, and productivity modelling.
+## Core Capabilities Demonstrated
 
-[Launch App](https://crew-optimizer.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/crew-optimizer)
+The systems demonstrate end-to-end implementation including:
 
----
-
-#### Revenue Forecasting System  
-Time-series forecasting engine modelling airline revenue trends with scenario-based projections.
-
-[Launch App](https://airline-revenue-forecast.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/Airline-Revenue-Forecast)
+- SQL data modelling and transformation  
+- Python-based forecasting and predictive analytics  
+- Operational KPI dashboards and monitoring  
+- Scenario-based operational planning  
+- Lightweight cloud deployment using Streamlit  
 
 ---
 
-#### Predictive Maintenance Optimization  
-Time-series anomaly detection model to identify equipment risk exposure and operational failure patterns.
+## Portfolio Projects
 
-[Launch App](https://predictivedashboard-vikrantthenge.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/predictive_dashboard)
+### Aviation Operations & Network Systems
 
----
+**Flight Delay Predictor**  
+Machine learning model predicting flight delay probability with explainable drivers for operational analysis.
 
-#### Operational Safety & Risk Analytics  
-Risk scoring system using structured rule-based modelling and PySpark workflows for compliance and exposure tracking.
-
-[Hugging Face Space](https://huggingface.co/spaces/vthenge/risk-analytics)  
-[GitHub Repo](https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-)
+🔗 https://share.streamlit.io/vikrantthenge/flight-delay-predictor/main/app.py  
+🔗 https://github.com/Vikrantthenge/flight-delay-predictor
 
 ---
 
-### 🔹 Enterprise KPI & Performance Governance
+**CrewOps Workforce Optimization**  
+Operational workforce planning system analysing scheduling efficiency and SLA compliance.
 
-#### Financial KPI Forecast & Risk Tracker  
-Revenue, expense, and cash flow forecasting system using Prophet modelling with Power BI integration.
-
-[Launch App](https://kpi-risk-tracker-finance.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/KPI-Risk-Tracker)
+🔗 https://crew-optimizer.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/crew-optimizer
 
 ---
 
-#### Customer Analytics & Segmentation Platform  
-RFM segmentation, cohort retention modelling, and K-Means clustering on 430K+ transactions to generate 4,300+ customer profiles.
+**Airline Revenue Forecasting**  
+Time-series forecasting model analysing airline revenue patterns and scenario-based projections.
 
-[Launch App](https://customer-analytic.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/customer-analytics)
-
----
-
-### 🔹 Supporting Applied ML Systems
-
-#### Airline Sentiment Analyzer  
-Hybrid NLP pipeline (VADER + Transformer models) for passenger sentiment analysis and service insight extraction.
-
-[Streamlit App](https://sentiment-analyzer-vikrantthenge.streamlit.app/)  
-[Hugging Face Space](https://huggingface.co/spaces/vthenge/sentiment-analyzer)  
-[GitHub Repo](https://github.com/Vikrantthenge/sentiment-Analyzer)
+🔗 https://airline-revenue-forecast.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/Airline-Revenue-Forecast
 
 ---
 
-#### JobSearchMatch Automation  
-NLP-based resume-to-job description matching engine with scoring and ranking logic.
+**Predictive Maintenance Monitoring**  
+Anomaly detection system identifying equipment risk patterns and operational failures.
 
-[Launch App](https://jobsearchmatch.streamlit.app/)  
-[GitHub Repo](https://github.com/Vikrantthenge/job_search)
-
-</details>
+🔗 https://predictivedashboard-vikrantthenge.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/predictive_dashboard
 
 ---
 
-## 👤 About the Author
+**Operational Safety & Risk Analytics**  
+Risk monitoring system modelling operational exposure and safety indicators.
 
-Operations & Performance leader with 15+ years in airline operations, applying predictive systems and KPI governance frameworks to large-scale operational ecosystems.
+🔗 https://huggingface.co/spaces/vthenge/risk-analytics  
+🔗 https://github.com/Vikrantthenge/Operational-Safety-Risk-Analytics-
 
-Focused on designing decision-intelligence systems that improve cost efficiency, compliance visibility, and network performance.
+---
 
+### KPI & Performance Monitoring Systems
+
+**Financial KPI Forecasting System**  
+Operational financial forecasting system with scenario modelling.
+
+🔗 https://kpi-risk-tracker-finance.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/KPI-Risk-Tracker
+
+---
+
+**Customer Analytics Platform**  
+Customer segmentation and behavioural modelling for service improvement.
+
+🔗 https://customer-analytic.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/customer-analytics
+
+---
+
+### Supporting Applied Analytics
+
+**Airline Sentiment Analyzer**  
+Natural language processing system analysing passenger sentiment and service insights.
+
+🔗 https://sentiment-analyzer-vikrantthenge.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/sentiment-Analyzer
+
+---
+
+**JobSearchMatch Automation**  
+Resume-to-job description matching tool using NLP similarity scoring.
+
+🔗 https://jobsearchmatch.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/job_search
+
+---
+
+## About
+
+Aviation operations professional with **20+ years of experience across airline operations, flight operations, and station management**.
+
+My work focuses on applying analytics to improve:
+
+- operational performance
+- workforce planning
+- KPI governance
+- operational decision support
+
+These projects reflect how analytics can support **real-world operational environments such as airlines and logistics networks**.
