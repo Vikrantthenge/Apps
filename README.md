@@ -1,6 +1,5 @@
 # Vikrant Thenge
 ### Aviation Operations Performance & Analytics
-
 Airline Operations | Operational Performance | KPI Governance | Applied Analytics
 
 ---
@@ -10,7 +9,6 @@ Airline Operations | Operational Performance | KPI Governance | Applied Analytic
 This repository showcases a portfolio of analytics applications designed to simulate **airline and large-scale operational environments**.
 
 The projects focus on improving operational performance through:
-
 - Flight Delay & Network Analysis
 - Workforce & Capacity Optimization
 - Revenue & Financial Forecasting
@@ -24,7 +22,6 @@ These applications demonstrate how analytics can support **operational decision-
 ## Core Capabilities Demonstrated
 
 The systems demonstrate end-to-end implementation including:
-
 - SQL data modelling and transformation  
 - Python-based forecasting and predictive analytics  
 - Operational KPI dashboards and monitoring  
@@ -79,6 +76,14 @@ Risk monitoring system modelling operational exposure and safety indicators.
 
 ### KPI & Performance Monitoring Systems
 
+**Operations Intelligence Control Tower**  
+Live operations dashboard converting operational data into KPI tracking, SLA and capacity exception detection, site/vendor root-cause analysis, and auto-generated prioritized management actions, with configurable thresholds that recalculate the board in real time.
+
+🔗 https://operations-control.streamlit.app/  
+🔗 https://github.com/Vikrantthenge/Apps
+
+---
+
 **Financial KPI Forecasting System**  
 Operational financial forecasting system with scenario modelling.
 
@@ -118,7 +123,6 @@ Resume-to-job description matching tool using NLP similarity scoring.
 Aviation operations professional with **20+ years of experience across airline operations, flight operations, and station management**.
 
 My work focuses on applying analytics to improve:
-
 - operational performance
 - workforce planning
 - KPI governance
