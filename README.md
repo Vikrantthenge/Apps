@@ -109,6 +109,28 @@ Most ops dashboards show you what happened. This one tells you what's about to b
 
 ---
 
+**Airline Ground Turnaround Performance Case Study**
+
+An interactive airline operations dashboard for monitoring turnaround variance, assumed SLA compliance and on-time performance. It compares performance across stations and ground handlers and supports filtering by station, handler and scheduled time band.
+
+**Key indicators from the simulated dataset (January–March 2026):**
+- Flight-turnaround records analysed: **1,500**
+- SLA breach rate: **approximately 45.7%**
+- On-time performance (OTP): **approximately 74.7%**
+- Average turnaround variance: **+10.1 minutes**
+
+These figures are calculated from simulated portfolio data and are not verified results from a real airline operation.
+
+**Technology:** `Python` · `Streamlit` · `Pandas` · `Plotly` · `CSV`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Dashboard-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://ground-turnaround-performance-analysis.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/ground-turnaround-performance-analysis)
+[![HTML Preview](https://img.shields.io/badge/HTML%20Preview-64748B?style=for-the-badge&logo=html5&logoColor=white)](https://vikrantthenge.github.io/ground-turnaround-performance-analysis/Dashboard_Preview.html)
+
+*Data disclaimer: All records and results are simulated for portfolio demonstration. SLA and OTP definitions are assumptions for this exercise, not official airline-wide standards. The HTML preview is a standalone dashboard preview, not a native Power BI `.pbix` file.*
+
+---
+
 **Financial KPI Forecasting System**
 Operational financial forecasting system with scenario modelling.
 
