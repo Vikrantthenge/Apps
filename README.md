@@ -124,14 +124,6 @@ An interactive operations analytics workbench connecting CSV data preparation, K
 
 ---
 
-**Operations Intelligence Control Tower**
-Most ops dashboards show you what happened. This one tells you what's about to break and what to do about it — SLA and capacity exceptions, root-cause signals by site and vendor, and prioritized actions, recalculated live as you move the thresholds.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://operations-control.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Apps)
-
----
-
 **Airline Ground Turnaround Performance Case Study**
 
 An interactive airline operations dashboard for monitoring turnaround variance, assumed SLA compliance and on-time performance. It compares performance across stations and ground handlers and supports filtering by station, handler and scheduled time band.
