@@ -101,6 +101,29 @@ Risk monitoring system modelling operational exposure and safety indicators.
 
 ### 📊 KPI & Performance Monitoring Systems
 
+**OpsIntel — Operations Intelligence Workbench**
+
+An interactive operations analytics workbench connecting CSV data preparation, KPI monitoring, reporting-period comparisons and executive reporting. Designed to help operations teams review performance across locations and services, inspect data quality and communicate analyst-reviewed findings.
+
+**Key capabilities:**
+
+- Executive KPIs, interactive filters and operational performance trends
+- Baseline-versus-current period comparisons with coverage warnings and optional per-day normalization
+- Validated column mapping, data-quality diagnostics and preview-first cleanup with original-data restoration
+- Configurable KPI targets with warning, critical and unavailable states
+- Saved projects, structured investigation and executive PDF/CSV/JSON exports
+
+**Skills demonstrated:** Business analysis · KPI governance · Data validation · Descriptive analytics · Modular application development · Executive reporting
+
+**Technology:** `Python` · `Streamlit` · `Pandas` · `NumPy` · `Plotly` · `SQLite` · `Matplotlib` · `ReportLab`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Workbench-22D3EE?style=for-the-badge&logo=streamlit&logoColor=0B1220)](https://vikrant-opsintelligence.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/Apps)
+
+*Demo note: Built-in data is fictional. Comparisons are descriptive and require human interpretation; no verified business improvements are claimed. This no-login demo uses shared project storage. Use fictional or de-identified data only.*
+
+---
+
 **Operations Intelligence Control Tower**
 Most ops dashboards show you what happened. This one tells you what's about to break and what to do about it — SLA and capacity exceptions, root-cause signals by site and vendor, and prioritized actions, recalculated live as you move the thresholds.
 
