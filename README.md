@@ -35,7 +35,7 @@ verified business outcomes from an employer.
 
 ## 🛠️ Core Capabilities Demonstrated
 
-::: {align="center"}
+::: 
 ![Python](https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=0B1220)
 ![SQL](https://img.shields.io/badge/SQL-A78BFA?style=flat-square&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
