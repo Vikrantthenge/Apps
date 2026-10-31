@@ -293,8 +293,6 @@ questions, and decision support. The methods are transferable to
 aviation, logistics, service delivery, shared services, and other
 operations-led environments.
 
-::: {align="center"}
-
 ------------------------------------------------------------------------
 
 **Vikrant Thenge** · Mumbai, India
@@ -302,4 +300,4 @@ operations-led environments.
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:vikrantthenge@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthenge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vikrantthenge)
-:::
+
