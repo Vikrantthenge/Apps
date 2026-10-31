@@ -32,7 +32,6 @@ The examples use simulated or demonstration data where stated. They
 illustrate analytical approaches and application functionality, not
 verified business outcomes from an employer.
 
-`<br>`{=html}
 
 ## 🛠️ Core Capabilities Demonstrated
 
@@ -58,7 +57,6 @@ The projects demonstrate practical application of:
 -   📈 Descriptive analytics, forecasting, and predictive modelling
 -   🧾 Management reporting and exportable analytical outputs
 
-`<br>`{=html}
 
 ## 🚀 Portfolio Projects
 
@@ -183,7 +181,6 @@ Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=s
 [![GitHub
 Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/customer-analytics)
 
-`<br>`{=html}
 
 ### ✈️ Aviation-Specific & Applied Analytics
 
@@ -254,7 +251,6 @@ Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=s
 [![GitHub
 Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/sentiment-Analyzer)
 
-`<br>`{=html}
 
 ### 🧠 Supporting Analytics Tool
 
@@ -269,7 +265,6 @@ Demo](https://img.shields.io/badge/Live%20Demo-22D3EE?style=for-the-badge&logo=s
 [![GitHub
 Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vikrantthenge/job_search)
 
-`<br>`{=html}
 
 ## 👤 About
 
