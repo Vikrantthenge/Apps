@@ -182,16 +182,16 @@ Resume-to-job description matching tool using NLP similarity scoring.
 
 ## 👤 About
 
-Aviation operations professional with **20+ years of experience across airline operations, flight operations, and station management**.
+Operations and performance professional with **18+ years of professional experience across airline operations, flight operations, station management, vendor coordination, and operational analytics**.
 
-My work focuses on applying analytics to improve:
+My work focuses on applying operational knowledge and data-driven decision support to improve:
 
-- 📊 operational performance
-- 👥 workforce planning
-- 🎯 KPI governance
-- 🧭 operational decision support
+- 📊 Operational performance and KPI governance
+- 👥 Workforce and capacity planning
+- 🎯 SLA compliance and vendor performance
+- 🧭 Operational monitoring, exception management, and decision support
 
-These projects reflect how analytics can support **real-world operational environments such as airlines and logistics networks**.
+This portfolio demonstrates how analytics applications can support operational decision-making in aviation and transferable environments such as logistics, service delivery, and control tower operations.
 
 <div align="center">
 
