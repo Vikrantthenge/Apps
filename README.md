@@ -1,4 +1,3 @@
-::: {align="center"}
 # Vikrant Thenge
 
 ### Operations Performance & Analytics
